@@ -2,7 +2,7 @@ import requests
 import PyPDF2
 
 VOICE_RSS_ENDPOINT = "http://api.voicerss.org/?"
-API_KEY = "1cbeae6d42634d10a6ec236b39fe06b9"
+API_KEY = "..."
 
 # -------PDF to text conversion----------
 
